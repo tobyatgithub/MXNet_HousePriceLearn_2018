@@ -1,4 +1,4 @@
-# MXNet_hoursePriceLearn_v1
+# MXNet_housePriceLearn_v1
 
 ### **General**  
 This is the notebook I used for the Kaggle [House Price Prediction](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) challenge using XGBoost and Gluon trainer.
